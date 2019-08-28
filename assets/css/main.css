@@ -174,6 +174,10 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
+	.project-link {
+		text-align: center;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 600;
