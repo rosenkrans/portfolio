@@ -1,6 +1,17 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
+
+.project-link {
+	text-align: center;
+}
+
+.pdf-image {
+	width: 35px;
+}
+
+
+
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
@@ -174,9 +185,7 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	.project-link {
-		text-align: center;
-	}
+	
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
